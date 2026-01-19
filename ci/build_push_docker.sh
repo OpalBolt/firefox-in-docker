@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPOSITORY="ghcr.io/eficode-academy/find"
+REPOSITORY="ghcr.io/opalbolt/find"
 GIT_TAG=$(git rev-parse HEAD)
 TAG="release"
 
